@@ -106,7 +106,7 @@ startBtn.addEventListener("click",function(){
    inputValue()
    isRunning=true;
    if(inputValueTimer ==""){
-    alert(' Jui Empty value please set up value ')
+    alert(' Empty value please set up value ')
 }
 });
 
